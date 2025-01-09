@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm from Cebu, Philippines.<br><br>- 🔭 I’m a student.<br>- 📚 I'm currently learning Next.js and TypeScript.<br>- 🌱 I'm interested in software development.</p>
+<p align="left">I'm from Cebu, Philippines.<br><br>- 🔭 I’m a student at the University of San Carlos, majoring in Computer Science.<br>- 📚 I'm currently learning Next.js and TypeScript.<br>- 🌱 I'm interested in software development.</p>
 
 ###
 
