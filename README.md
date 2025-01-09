@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pkachu.Pkachu&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pickachuuu.Pickachuuu&"  />
 </div>
 
 ###
@@ -62,7 +62,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pkachu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Pickachuuu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -74,12 +74,12 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Pkachu/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Pickachuuu/count.svg?"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Pkachu/Pkachu/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Pickachuuu/Pickachuuu/output/snake.svg" alt="Snake animation" />
 
 ###
 
