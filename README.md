@@ -1,8 +1,3 @@
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pickachuuu.Pickachuuu&"  />
-</div>
-
 ###
 
 <h1 align="center">hey there 👋, I am Derek.</h1>
@@ -13,13 +8,7 @@
 
 ###
 
-<p align="left">I'm from Cebu, Philippines.<br><br>- 🔭 I’m a student.<br>- 📚 I'm currently learning Next.js and TypeScript.<br></p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Pickachuuu/count.svg?"  />
-</div>
+<p align="left">I'm from Cebu, Philippines.<br><br>- 🔭 I’m a student.<br>- 📚 I'm currently learning Next.js and TypeScript.<br>- 🌱 I'm interested in software development.</p>
 
 ###
 
