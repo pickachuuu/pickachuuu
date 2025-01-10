@@ -4,11 +4,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm from Cebu, Philippines.<br><br>- 🔭 I’m a student at the University of San Carlos, majoring in Computer Science.<br>- 📚 I'm currently learning Next.js and TypeScript.<br>- 🌱 I'm interested in software development.</p>
+<p align="center">I'm from Cebu, Philippines.<br><br>- 🔭 I’m a student at the University of San Carlos, majoring in Computer Science.<br>- 📚 I'm currently learning Next.js and TypeScript.<br>- 🌱 I'm interested in software development.</p>
 
 ###
 
