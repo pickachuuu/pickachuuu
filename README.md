@@ -5,8 +5,7 @@
 **Full-stack Developer** from Cebu, Philippines
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-derek-berbo-b81a612a4/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pickachuuu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://derekberbo.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chrisdb.dev)
 
 </div>
 
